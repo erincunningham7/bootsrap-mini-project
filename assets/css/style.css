@@ -60,3 +60,7 @@ header {
     color: #fff;
 }
 
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+

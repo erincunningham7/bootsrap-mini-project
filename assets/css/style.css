@@ -30,6 +30,11 @@
     display: table;
 }
 
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
 /*--------------------------------------------Special padding/margin/text*/
 
 h1, h2, h3, h4 {

@@ -26,6 +26,10 @@
     background-color: #525252;
 }
 
+.row-table {
+    display: table;
+}
+
 /*--------------------------------------------Special padding/margin/text*/
 
 h1, h2, h3, h4 {

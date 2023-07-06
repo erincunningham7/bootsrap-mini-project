@@ -35,6 +35,14 @@
     padding: 0 30px 30px;
     float: none;
 }
+
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
 /*--------------------------------------------Special padding/margin/text*/
 
 h1, h2, h3, h4 {
